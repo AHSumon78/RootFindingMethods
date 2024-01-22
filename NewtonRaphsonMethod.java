@@ -1,5 +1,5 @@
 public class NewtonRaphsonMethod implements Expression{
-    private double x0=12;
+    private double x0=5.00000012;
     private double e=0.000001;
     @Override
     public double evaluation(double x) {
